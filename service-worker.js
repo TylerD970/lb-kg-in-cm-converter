@@ -1,4 +1,4 @@
-const CACHE_NAME = "unit-converter-v2";
+const CACHE_NAME = "unit-converter-v3";
 const FILES_TO_CACHE = [
     "./",
     "./background.jpg",
